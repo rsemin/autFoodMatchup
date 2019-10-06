@@ -1,14 +1,10 @@
 /*
-Student name: Emily Wang
-Student number: 20763516
+Student names: Roman Semin and Emily Wang
 Date: Nov 30, 2018
 
 SYDE 121 Lab: Assignment 8
 Filenames: lab_09_main.cpp, lab_09_box.(cpp/hpp), lab_09_produce.(cpp/hpp)
 Project: Assignment 8
-
-Purpose: To implement a class Book that stores information about them and create a class Library that constains a
-vector of book instances.
  */
 
 #include <iostream>
